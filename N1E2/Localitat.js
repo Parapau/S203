@@ -1,0 +1,8 @@
+{
+  $jsonSchema: {
+    required: [
+      'nom',
+      'provincia'
+    ]
+  }
+}

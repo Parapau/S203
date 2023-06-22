@@ -1,0 +1,7 @@
+{
+  $jsonSchema: {
+    required: [
+      'idProveïdor',
+      'nomMarca'
+    ]
+  }
